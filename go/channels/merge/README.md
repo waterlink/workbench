@@ -33,7 +33,7 @@ Benchmark    StaticIntMerge   5 Input       Small Amount Values
 
 Benched functions:
 - `merge.ReflectMerge`
-- `StaticIntMerge`
+- `merge.StaticIntMerge`
 
 Benched input sizes (count of input channels to merge):
 - 1
